@@ -10,11 +10,3 @@
 #MEUNIER:hover img {
   transform: rotate(360deg);
 }
-#DAVID {
-  border-radius: 15px;
-  background: linear-gradient(to bottom, black, #aaa);
-  img{
-    width: 300px;
-    border-radius: 7px;
-  }
-}
